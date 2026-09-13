@@ -28,6 +28,8 @@ Password-Generator/
 ├── index.js
 ├── input.css
 ├── output.css
+├── package-lock.json
+├── package.json
 └── README.md
 ```
 
