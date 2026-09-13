@@ -25,7 +25,9 @@ A simple Password Generator built using **HTML, Tailwind CSS, and JavaScript**. 
 Password-Generator/
 │
 ├── index.html
-├── script.js
+├── index.js
+├── input.css
+├── output.css
 └── README.md
 ```
 
